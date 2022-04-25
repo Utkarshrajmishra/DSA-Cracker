@@ -1,4 +1,4 @@
-class Compute {
+lass Compute {
     
     public void rotate(int arr[], int n)
     {
